@@ -11,7 +11,7 @@ export default function Service(){
                 <h2>Planning</h2>
                 
                <p>...........</p>
-                 <a href="/">learn more</a>
+                 <a href="/service/Planning">learn more</a>
             </div>
             <div>
                 <i class="fa-solid fa-wrench"></i>
@@ -20,7 +20,7 @@ export default function Service(){
                 <h2>Plumbing</h2>
                
                <p>..............</p>
-                 <a href="/">learn more</a>
+                 <a href="/service/Plumbing">learn more</a>
             </div>
             <div>
                 <i class="fa-solid fa-stairs"></i>

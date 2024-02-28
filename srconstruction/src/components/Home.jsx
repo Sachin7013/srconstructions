@@ -1,4 +1,3 @@
-import { useEffect } from "react";
 import About from "./About";
 
 function Home() {
@@ -10,11 +9,11 @@ function Home() {
         <div className="container">
           <nav>
             <ul>
-              <li><a href="#header" className="tab-links active-link" data-tab="home">Home</a></li>
+              <li><a href="header" className="tab-links active-link" data-tab="home">Home</a></li>
               <li><a href="#about" className="tab-links" data-tab="about">About us</a></li>
-              <li><a href="#service" className="tab-links" data-tab="service">Service</a></li>
-              <li><a href="#portfolio" className="tab-links" data-tab="work">My Work</a></li>
-              <li><a href="#contact" className="tab-links" data-tab="contact">Contact</a></li>
+              <li><a href="/service" className="tab-links" data-tab="service">Service</a></li>
+              <li><a href="/portfolio" className="tab-links" data-tab="work">My Work</a></li>
+              <li><a href="/contact" className="tab-links" data-tab="contact">Contact</a></li>
             </ul>
           </nav>
           <div className="header-text">
