@@ -4,7 +4,7 @@ const Services = [
         id: 1, 
         title: 'Planning', 
         details: 'Planning details...',
-        image: "https://applet3d.com/wp-content/uploads/2023/01/architectural-design-1024x683.jpg",
+        image: "https://images.squarespace-cdn.com/content/v1/58b58a96f5e231aa75f48ec4/1592228976060-03HO68GMA4RI2RB6XAXS/design-meet-revise-repeat-thumbnail.jpg",
         subtopics: [
             { title: 'Site Survey', description: 'Description of site survey...' },
             { title: 'Architectural Design', description: 'Description of architectural design...' },
