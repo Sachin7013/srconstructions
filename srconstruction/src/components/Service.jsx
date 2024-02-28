@@ -20,14 +20,14 @@ export default function Service(){
                 <h2>Plumbing</h2>
                
                <p>..............</p>
-                 <a href="/service/Plumbing">learn more</a>
+                 <a href="/service/Plumbing ">learn more</a>
             </div>
             <div>
                 <i class="fa-solid fa-stairs"></i>
                 <h2>Starcase work</h2>
                
                <p>..................</p>
-                 <a href="/">learn more</a>
+                 <a href="/service/Staircase Work">learn more</a>
             </div>
             <div>
                 <i class="fa-solid fa-hammer"></i>
@@ -35,21 +35,21 @@ export default function Service(){
                 <h2>Patch Work</h2>
                 
                <p>...................</p>
-                 <a href="/">learn more</a>
+                 <a href="/service/Patch Work">learn more</a>
             </div>
             <div>
                 <i class="fa-solid fa-people-roof"></i>
                 <h2>Roffing</h2>
               
                <p>....................</p>
-                 <a href="/">learn more</a>
+                 <a href="/service/Roofing">learn more</a>
             </div>
             <div>
                 <i class="fa-solid fa-phone"></i>
                 <h2>consultation</h2>
               
                <p>..............................</p>
-                 <a href="/">learn more</a>
+                 <a href="/service/Consultation">learn more</a>
             </div>
         </div>
      
